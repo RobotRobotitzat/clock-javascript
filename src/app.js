@@ -1,1 +1,1 @@
-document.write(new Date());
+console.log("The web is ready");
