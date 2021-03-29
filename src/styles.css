@@ -2,12 +2,18 @@
     background-color: #abcace;
     font-family: 'Inconsolata', monospace;
     font-size: 20px;
-    margin: 0;
-    padding: 0
+   /*  margin: 0;
+    padding: 0 */
 }
 
-.title {
+/* PROJECT TITLE */
+.project-title {
     font-size: 30px;
     margin-left: 312px;
     margin-top: 200px;
+}
+
+/* FOOTER */
+.footer-div {
+    background-color: #6e6868;
 }
