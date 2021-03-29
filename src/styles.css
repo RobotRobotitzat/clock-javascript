@@ -2,8 +2,8 @@
     background-color: #abcace;
     font-family: 'Inconsolata', monospace;
     font-size: 20px;
-   /*  margin: 0;
-    padding: 0 */
+    margin: 0;
+    padding: 0
 }
 
 /* PROJECT TITLE */
@@ -15,5 +15,9 @@
 
 /* FOOTER */
 .footer-div {
-    background: #6e6868;
+    background-color: #6e6868;
+}
+.footer-text {
+    background-color: #6e6868;
+    margin-left: 70%;
 }
