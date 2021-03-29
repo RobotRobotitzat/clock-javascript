@@ -14,3 +14,13 @@
 }
 
 /* FOOTER */
+.clock-footer-in {
+    background-color: #5d7e83;
+    text-align: center;
+    text-justify: auto;
+    margin-bottom: 10px;
+}
+.clock-footer-div {
+    margin-top: 300px;
+    background-color: #5d7e83;
+}
