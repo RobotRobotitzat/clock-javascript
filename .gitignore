@@ -1,2 +1,3 @@
 .directory
-designs/
+src/designs/*
+!src/designs/icon/
