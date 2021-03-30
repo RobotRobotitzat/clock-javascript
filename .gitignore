@@ -1,4 +1,7 @@
 .directory
+# ignore the designs folder
 src/designs/*
+# ignore the designs folder except the icon folder
 !src/designs/icon/
+# ignore the designs zip
 src/designs/icon/80f9c7bb58d1e7b56f0c468c40415b95.ico.zip
